@@ -1,1 +1,1 @@
-print ""faty""
+print (""fati"")
